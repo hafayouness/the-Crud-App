@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "the spider",
+      "author": "HAFA",
+      "id": 2
+    },
+    {
+      "title": "The Camel",
+      "author": "zizo",
+      "id": 3
+    },
+    {
+      "title": "the light",
+      "author": "ismail",
+      "id": 4
+    },
+    {
+      "title": "Is life",
+      "author": "dodo",
+      "id": 5
+    },
+    {
+      "title": "never give up",
+      "author": "amine",
+      "id": 7
+    },
+    {
+      "title": "the second tour",
+      "author": "brahim",
+      "id": 8
+    }
+  ]
+}
